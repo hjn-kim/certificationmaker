@@ -1,0 +1,7 @@
+.env
+output/*.pdf
+__pycache__/
+*.pyc
+fonts/*.ttf
+venv/
+.venv/
